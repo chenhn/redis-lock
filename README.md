@@ -2,4 +2,4 @@
 
 使用redis 中setnx实现分布式锁
 
-redis tool
+redis distributed lock tool
